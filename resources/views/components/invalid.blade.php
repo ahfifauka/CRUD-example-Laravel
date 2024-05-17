@@ -1,0 +1,1 @@
+<small class="text-red-500">{{ $message }}</small>
